@@ -1,0 +1,11 @@
+{
+  "key_password": "Contraseña",
+  "key_must_be_at_least_6_characters": "Debe tener al menos 6 caracteres",
+  "key_email": "Correo electrónico",
+  "key_please_enter_valid_email": "Por favor, introduzca de correo electrónico válida",
+  "key_last_name": "Apellido",
+  "key_enter_last_name": "Introducir el último nombre",
+  "key_first_name": "Primer nombre",
+  "key_enter_first_name": "Ingrese el primer nombre",
+  "key_next": "Siguiente"
+}

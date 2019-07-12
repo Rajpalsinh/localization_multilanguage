@@ -1,0 +1,11 @@
+{
+  "key_password": "પાસવર્ડ",
+  "key_must_be_at_least_6_characters": "હોવા જ જોઈએ ઓછામાં ઓછા 6 વર્ણાક્ષરોનો",
+  "key_email": "ઇમેઇલ",
+  "key_please_enter_valid_email": "મહેરબાની કરીને માન્ય ઇમેઇલ",
+  "key_last_name": "છેલ્લું નામ",
+  "key_enter_last_name": "છેલ્લું નામ દાખલ",
+  "key_first_name": "પ્રથમ નામ",
+  "key_enter_first_name": "પ્રથમ નામ દાખલ",
+  "key_next": "આગામી"
+}
